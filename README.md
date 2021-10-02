@@ -15,7 +15,7 @@ Create a Pull request and add any feature update to the repository.
 
 Here are 2 quick and painless ways to contribute to this project:
 
-* Create a simple python program of your choice or try fixing bugs in the repositry. 
+* Create a simple python program of your choice or try fixing bugs in the repository. 
 * Add your name to the `CONTRIBUTORS.md` file.
 
 Choose both, make a pull request for your work and wait for it to be merged!! 
