@@ -20,3 +20,7 @@ Just copy and edit next 3 lines:
 #### Name: Budi Rahmawan
 - GitHub: https://github.com/BudiRahmawan/
 ```
+```markdown
+#### Name: [Vikrant Rajput]
+- GitHub: https://github.com/VikrantRajput1408
+```
