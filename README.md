@@ -1,9 +1,9 @@
 # python4beginners-Hacktoberfest21
 
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-    	<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="200px" height="200px">
-    </a>
+    <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
+    	<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="200px" height="200px">
+    </a>
 </p>
 Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
 
@@ -15,7 +15,7 @@ Create a Pull request and add any feature update to the repository.
 
 Here are 2 quick and painless ways to contribute to this project:
 
-* Create a simple python program of your choice or try fixing bugs in the repositry. 
+* Create a simple python program of your choice or try fixing bugs in the repository. 
 * Add your name to the `CONTRIBUTORS.md` file.
 
 Choose both, make a pull request for your work and wait for it to be merged!! 
@@ -50,4 +50,4 @@ git push origin branch-name
 <br />
 
 NOTE: Only valid PRs will be merged.
-I will accept every PR from : 8:30pm to 10:00pm IST daily.
+I will accept every PR from 8:30 pm to 10:00 pm IST daily.
