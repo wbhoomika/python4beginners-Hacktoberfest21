@@ -15,3 +15,7 @@ Just copy and edit next 3 lines:
 #### Name: Agnese Beschin
 - GitHub: https://github.com/AgneseB2/
 ```
+```markdown
+#### Name: Rishi Raj
+- GitHub: https://github.com/rsh-raj
+```
