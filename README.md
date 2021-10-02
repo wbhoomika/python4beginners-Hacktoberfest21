@@ -26,7 +26,7 @@ Choose both, make a pull request for your work and wait for it to be merged!!
 
 ```markdown
 git clone https://github.com/wbhoomika/python4beginners-Hacktoberfest21
-
+```
 * Create a branch
 
 ```markdown
