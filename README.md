@@ -5,20 +5,20 @@
     	<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="200px" height="200px">
     </a>
 </p>
-<center>:sparkles:<h4>1 OCTOBER - 31 OCTOBER</h4>:sparkles:<center>
+Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
 
-Pull request and add any feature to the repository.
+Create a Pull request and add any feature update to the repository.
 
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
 
 ## How to contribute to this project?
 
-Here are 3 quick and painless ways to contribute to this project:
+Here are 2 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file.
 * Create a simple python program of your choice.
+* Add your name to the `CONTRIBUTORS.md` file.
 
-Choose both, make a pull request for your work and wait for it to be merged!!
+Choose both, make a pull request for your work and wait for it to be merged!! 
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
