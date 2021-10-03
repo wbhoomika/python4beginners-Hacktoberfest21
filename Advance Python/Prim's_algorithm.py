@@ -77,6 +77,6 @@ g.graph = [ [0, 2, 0, 6, 0],
 			[6, 8, 0, 0, 9],
 			[0, 5, 7, 9, 0]]
 
-g.primMST();
+g.primMST()
 
 # Contributed by Divyanshu Mehta
