@@ -32,6 +32,11 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+
+#### Name: Shiraz Mangat
+-GitHub: https://github.com/shiraz-30
+```
+
 #### Name: [Munish Kumar]
 - GitHub: https://github.com/munish0838
 ```
