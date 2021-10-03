@@ -2,16 +2,20 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-    	<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="500px" height="500px">
+    	<img src="https://user-images.githubusercontent.com/55616388/135486681-adf5d5e7-d03c-4352-8e0c-d33ca1bee931.jpg" width="500px" height="500px">
     </a>
 </p>
+
+# HacktoberFest21
+
+Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
 Contribute between: <h4>1 OCTOBER - 31 OCTOBER</h4>
 
 Create a Pull request and add any feature update to the repository.
 
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
 
-# Our Contributors :handshake: :handshake:
+## Our Contributors :handshake: :handshake:
 <a href="https://github.com/wbhoomika/python4beginners-Hacktoberfest21/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wbhoomika/python4beginners-Hacktoberfest21" />
 </a>
