@@ -47,6 +47,10 @@ git push origin branch-name
 * Wait for your PR review and merge approval...
 * __Star this repository__ if you had fun contributing!
 
+## Update
+
+A new folder named `Advance Python` has been added. Kindly add your code in that folder if you think your contribution lies in that category. 
+
 <br />
 
 NOTE: Only valid PRs will be merged.
