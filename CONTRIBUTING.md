@@ -29,3 +29,8 @@ Just copy and edit next 3 lines:
 #### Name: [Vikrant Rajput]
 - GitHub: https://github.com/VikrantRajput1408
 ```
+
+```markdown
+#### Name: Shiraz Mangat
+-GitHub: https://github.com/shiraz-30
+```
