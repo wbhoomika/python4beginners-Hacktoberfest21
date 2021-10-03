@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/" target="_blank">
-    	<img src="https://user-images.githubusercontent.com/55616388/135486681-adf5d5e7-d03c-4352-8e0c-d33ca1bee931.jpg" width="500px" height="500px">
+    	<img src="https://user-images.githubusercontent.com/55616388/135486681-adf5d5e7-d03c-4352-8e0c-d33ca1bee931.jpg" width="800px" height="300px">
     </a>
 </p>
 
