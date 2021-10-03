@@ -65,3 +65,8 @@ Just copy and edit next 3 lines:
 #### Name: Vikas Kaushik
 - GitHub: https://github.com/vikask1
 ```
+
+```markdown
+#### Name: Anahita Singla
+- GitHub: https://github.com/anahita-singla
+```
