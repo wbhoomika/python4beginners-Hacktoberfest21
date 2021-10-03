@@ -60,3 +60,8 @@ Just copy and edit next 3 lines:
 #### Name: Foo-Maker
 - GitHub: https://github.com/Foo-Maker
 ```
+
+```markdown
+#### Name: Vikas Kaushik
+- GitHub: https://github.com/vikask1
+```
