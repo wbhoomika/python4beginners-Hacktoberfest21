@@ -75,3 +75,8 @@ Just copy and edit next 3 lines:
 #### Name: Rashid Wassan
 - GitHub: https://github.com/rashidwassan/
 ```
+
+```markdown
+#### Name: Nirmalya Misra
+- GitHub: https://github.com/nirmalya8
+```
