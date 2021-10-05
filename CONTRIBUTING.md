@@ -81,7 +81,13 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/nirmalya8
 ```
 
+
 ```markdown
 #### Name: Ankit Kumar
 - GitHub: https://github.com/ankitkumar174
+
+```markdown
+#### Name: Meet Shah
+- GitHub: https://github.com/Meet-M-ShAh/
+
 ```
