@@ -80,3 +80,8 @@ Just copy and edit next 3 lines:
 #### Name: Nirmalya Misra
 - GitHub: https://github.com/nirmalya8
 ```
+
+```markdown
+#### Name: Yuvaraj S
+- GitHub: https://github.com/S-YUVARAJ
+```
