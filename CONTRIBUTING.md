@@ -87,6 +87,11 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+#### Name: Yuvaraj S
+- GitHub: https://github.com/S-YUVARAJ
+```
+
+```markdown
 #### Name: Mansi V Jain
 - GitHub: https://github.com/Mansivjain00
 ```
