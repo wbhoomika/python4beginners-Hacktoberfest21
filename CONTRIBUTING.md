@@ -83,4 +83,8 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Meet Shah
 - GitHub: https://github.com/Meet-M-ShAh/
+
+```markdown
+#### Name: Isha Sah
+- GitHub: https://github.com/IshaSah
 ```
