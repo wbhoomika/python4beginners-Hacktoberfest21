@@ -18,7 +18,7 @@ out = cv2.VideoWriter('output.avi', fourCC, 20, (200, 200))
 cap = cv2.VideoCapture(0)  # you can use 0 or 1 to capture the video
 
 time.sleep(3) 
-# 3 second delay to give time for the settings to process before webcam starts
+# 3 second delay to give time for the settings to execute before the webcam starts
 
 # variables
 count = 0
