@@ -115,3 +115,10 @@ Just copy and edit next 3 lines:
 #### Name: Jared C
 - GitHub: https://github.com/JaredsCode
 ```
+
+```markdown
+#### Name: Talha Masood
+- GitHub: https://github.com/talhamasoodme
+```
+
+
