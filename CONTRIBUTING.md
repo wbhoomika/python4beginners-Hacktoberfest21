@@ -127,4 +127,9 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/talhamasoodme
 ```
 
+```markdown
+#### Name: Hriday Agrawal
+- GitHub: https://github.com/HridayAg0102
+```
+
 
