@@ -144,3 +144,9 @@ Just copy and edit next 3 lines:
 ```
 
 
+```markdown
+#### Name: Mudit Tripathi 
+- GitHub: https://github.com/Mudit88
+```
+
+
