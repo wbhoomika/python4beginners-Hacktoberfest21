@@ -127,6 +127,11 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/talhamasoodme
 ```
 
+```markdown
+#### Name: Danish
+- GitHub: https://github.com/khand420
+```
+
 
 ```markdown
 #### Name: Hriday Agrawal
