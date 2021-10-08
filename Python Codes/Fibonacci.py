@@ -1,4 +1,4 @@
-def fibonacci(n):#, I have used the function def Fibonacci
+def fibonacci(n):# I have used the function def Fibonacci
 	fib = [1, 1]
 	
 	for i in range(2, n):
