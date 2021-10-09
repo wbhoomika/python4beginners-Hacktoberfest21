@@ -2,7 +2,7 @@
 
 Just copy and edit next 3 lines:
 ```markdown
-#### Name: [YOUR NAME]
+#### Name: YOUR NAME
 - GitHub: GitHub link
 ```
 
@@ -27,12 +27,12 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
-#### Name: [Vikrant Rajput]
+#### Name: Vikrant Rajput
 - GitHub: https://github.com/VikrantRajput1408
 ```
 
 ```markdown
-#### Name: [Priyanshu Sharma]
+#### Name: Priyanshu Sharma
 - GitHub: https://github.com/priyanshu0056
 ```
 
@@ -42,7 +42,7 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
-#### Name: [Munish Kumar]
+#### Name: Munish Kumar
 - GitHub: https://github.com/munish0838
 ```
 
@@ -52,7 +52,7 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
-#### Name: [Subha Sundar Chakraborty]
+#### Name: Subha Sundar Chakraborty
 - GitHub: https://github.com/csubhasundar
 ```
 
@@ -72,6 +72,11 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+#### Name: Akarshan Kumar
+- GitHub: https://github.com/akarshan2602
+```
+
+```markdown
 #### Name: Rashid Wassan
 - GitHub: https://github.com/rashidwassan/
 ```
@@ -81,19 +86,56 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/nirmalya8
 ```
 
-
-```markdown
-#### Name: Ankit Kumar
-- GitHub: https://github.com/ankitkumar174
-
-```markdown
-#### Name: Meet Shah
-- GitHub: https://github.com/Meet-M-ShAh/
-
-
-```
-
 ```markdown
 #### Name: Mansi V Jain
 - GitHub: https://github.com/Mansivjain00
 ```
+
+```markdown
+#### Name: Ankit Kumar
+- GitHub: https://github.com/ankitkumar174
+```
+
+```markdown
+#### Name: Meet Shah
+- GitHub: https://github.com/Meet-M-ShAh/
+```
+
+```markdown
+#### Name: Isha Sah
+- GitHub: https://github.com/IshaSah
+```
+
+```markdown
+#### Name: Jared C
+- GitHub: https://github.com/JaredsCode
+```
+
+```markdown
+#### Name: Talha Masood
+- GitHub: https://github.com/talhamasoodme
+```
+
+```markdown
+#### Name: Danish
+- GitHub: https://github.com/khand420
+```
+
+
+```markdown
+#### Name: Hriday Agrawal
+- GitHub: https://github.com/HridayAg0102
+```
+
+```markdown
+#### Name: Vishwa Mittar 
+- GitHub: https://github.com/vishwasluhana
+```
+
+
+```markdown
+#### Name: Mudit Tripathi 
+- GitHub: https://github.com/Mudit88
+```
+
+
