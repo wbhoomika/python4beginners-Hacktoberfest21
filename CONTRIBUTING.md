@@ -127,4 +127,26 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/talhamasoodme
 ```
 
+```markdown
+#### Name: Danish
+- GitHub: https://github.com/khand420
+```
+
+
+```markdown
+#### Name: Hriday Agrawal
+- GitHub: https://github.com/HridayAg0102
+```
+
+```markdown
+#### Name: Vishwa Mittar 
+- GitHub: https://github.com/vishwasluhana
+```
+
+
+```markdown
+#### Name: Mudit Tripathi 
+- GitHub: https://github.com/Mudit88
+```
+
 
