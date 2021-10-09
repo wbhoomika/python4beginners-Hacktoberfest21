@@ -11,14 +11,4 @@ for i in range(1, min + 1):
 
 lcm = int(num1 * num2 / gcd)
 
-print(
-    "The gcd and lcm of "
-    + str(num1)
-    + " and "
-    + str(2)
-    + " is "
-    + str(gcd)
-    + " and "
-    + str(lcm)
-    + " respectively"
-)
+print("The gcd and lcm of " + str(num1) + " and " + str(2) + " is " + str(gcd) + " and " + str(lcm) + " respectively")
