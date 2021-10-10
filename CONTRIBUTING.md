@@ -154,3 +154,7 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/ShubhayanS/
 ```
 
+```markdown
+#### Name: Elridge Fernandes
+- GitHub: https://github.com/elridge1311
+```
