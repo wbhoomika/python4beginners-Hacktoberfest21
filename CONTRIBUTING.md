@@ -170,3 +170,7 @@ Just copy and edit next 3 lines:
 #### Name: Reshu Jain
 - GitHub: https://github.com/RESHU-05
 ```
+```markdown
+#### Name: Joel T 
+- GitHub: https://github.com/notS0LD13R
+```
