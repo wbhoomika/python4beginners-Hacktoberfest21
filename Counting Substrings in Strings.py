@@ -12,9 +12,11 @@ def count_substring(string, sub_string):                   #Creating a function 
             count=count+1                                  #If condition meet then incrementing the counter
     return count                                           #Returning count
 
-if __name__ == '__main__':   
+if __name__ == '__main__':
+    print("Enter the String:- ")
     string = input().strip()                               #Taking input 
+    print("Enter the substring:- ")
     sub_string = input().strip()                           #Taking input sub_string
     count = count_substring(string, sub_string)            #Calling the function
-    print(count)                                           #Printing Count
+    print("The Substring ",sub_string," appears ",count," times in ",string)                                           #Printing Count
 
