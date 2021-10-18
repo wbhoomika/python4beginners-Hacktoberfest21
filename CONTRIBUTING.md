@@ -142,5 +142,9 @@ Just copy and edit next 3 lines:
 #### Name: Vishwa Mittar 
 - GitHub: https://github.com/vishwasluhana
 ```
+```markdown
+#### Name: Damik Dhar 
+- GitHub: https://github.com/damikdhar
+```
 
 
