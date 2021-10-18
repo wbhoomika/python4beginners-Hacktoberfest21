@@ -22,6 +22,11 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+#### Name: Skwangles S
+- GitHub: https://github.com/skwangles
+```
+
+```markdown
 #### Name: Budi Rahmawan
 - GitHub: https://github.com/BudiRahmawan/
 ```
@@ -144,3 +149,40 @@ Just copy and edit next 3 lines:
 ```
 
 
+```markdown
+#### Name: Mudit Tripathi 
+- GitHub: https://github.com/Mudit88
+```
+
+```markdown
+#### Name: Shubhayan Saha
+- GitHub: https://github.com/ShubhayanS/
+```
+
+```markdown
+#### Name: Elridge Fernandes
+- GitHub: https://github.com/elridge1311
+```
+
+
+```markdown
+#### Name: Mohamed Abith
+- GitHub: https://github.com/abithpdm
+```
+
+
+```markdown
+#### Name: Reshu Jain
+- GitHub: https://github.com/RESHU-05
+```
+
+```markdown
+#### Name: Joel T 
+- GitHub: https://github.com/notS0LD13R
+```
+
+```markdown
+#### Name: Avinash Kumar
+- GitHub:https://github.com/Avinashkp73
+
+```
