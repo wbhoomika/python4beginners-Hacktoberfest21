@@ -186,3 +186,8 @@ Just copy and edit next 3 lines:
 - GitHub:https://github.com/Avinashkp73
 
 ```
+
+```markdown
+#### Name: Sulagna Dutta Roy
+- GitHub: https://github.com/sulagna-dutta-roy
+```
