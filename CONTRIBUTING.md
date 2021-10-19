@@ -147,6 +147,10 @@ Just copy and edit next 3 lines:
 #### Name: Vishwa Mittar 
 - GitHub: https://github.com/vishwasluhana
 ```
+```markdown
+#### Name: Damik Dhar 
+- GitHub: https://github.com/damikdhar
+```
 
 
 ```markdown
@@ -184,8 +188,16 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Avinash Kumar
 - GitHub:https://github.com/Avinashkp73
-
+```
 
 ```markdown
 #### Name: Spandan Giri
 - GitHub:https://github.com/SpandanGiri
+
+```
+
+```markdown
+#### Name: Sulagna Dutta Roy
+- GitHub: https://github.com/sulagna-dutta-roy
+```
+
