@@ -188,6 +188,11 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Avinash Kumar
 - GitHub:https://github.com/Avinashkp73
+```
+
+```markdown
+#### Name: Spandan Giri
+- GitHub:https://github.com/SpandanGiri
 
 ```
 
@@ -195,3 +200,4 @@ Just copy and edit next 3 lines:
 #### Name: Sulagna Dutta Roy
 - GitHub: https://github.com/sulagna-dutta-roy
 ```
+
