@@ -1,9 +1,9 @@
 from random import randint
 
 def run(digits, numbers):
-    for roll in range(numbers):  # Repeats the amount of print outs, based on the amount of rolls
-        printStr = ""
-        for num in range(digits):  # Prints the amount of numbers desired
+    for num in range(numbers):  # Repeats the amount of print outs, based on the amount of rolls
+        printStr = ""  # Resets the printout string
+        for dig in range(digits):  # Prints the amount of numbers desired
             printStr = printStr + str(randint(0, 9))
         print(printStr)  # Prints the current number's string
 
