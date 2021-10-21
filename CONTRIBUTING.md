@@ -202,11 +202,6 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
-#### Name: Ethan Li
-- GitHub: https://github.com/Kunimahooo
-```
-
-
 #### Name: Foxunderground
 - GitHub: https://github.com/Foxunderground
 ```
