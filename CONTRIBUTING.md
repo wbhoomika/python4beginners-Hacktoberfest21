@@ -206,8 +206,12 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/Foxunderground
 ```
 
-
 ```markdown
 #### Name: TithiSreemany
 - GitHub: https://github.com/TithiSreemany
+```
+
+```markdown
+#### Name: Adipta Santra 
+- GitHub: https://github.com/CodeReaper-10
 ```
