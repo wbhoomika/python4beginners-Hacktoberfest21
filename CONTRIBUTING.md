@@ -94,7 +94,6 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Anurag Bhandari
 - GitHub: https://github.com/WhiteWolf47
-
 ```
 
 ```markdown
@@ -137,7 +136,6 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/khand420
 ```
 
-
 ```markdown
 #### Name: Hriday Agrawal
 - GitHub: https://github.com/HridayAg0102
@@ -147,11 +145,11 @@ Just copy and edit next 3 lines:
 #### Name: Vishwa Mittar 
 - GitHub: https://github.com/vishwasluhana
 ```
+
 ```markdown
 #### Name: Damik Dhar 
 - GitHub: https://github.com/damikdhar
 ```
-
 
 ```markdown
 #### Name: Mudit Tripathi 
@@ -168,12 +166,10 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/elridge1311
 ```
 
-
 ```markdown
 #### Name: Mohamed Abith
 - GitHub: https://github.com/abithpdm
 ```
-
 
 ```markdown
 #### Name: Reshu Jain
@@ -193,7 +189,6 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Spandan Giri
 - GitHub:https://github.com/SpandanGiri
-
 ```
 
 ```markdown
