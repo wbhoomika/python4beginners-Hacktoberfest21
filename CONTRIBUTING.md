@@ -212,6 +212,13 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+
+#### Name: Nikita Dhona 
+- GitHub: https://github.com/nikitadhona/
+```
+
+```markdown
 #### Name: Atharv Bhadange 
 - GitHub: https://github.com/atharv-bhadange
+
 ```
