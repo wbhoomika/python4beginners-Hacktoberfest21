@@ -235,5 +235,5 @@ Just copy and edit next 3 lines:
 ```
 ```markdown
 #### Name: Anurag Saikia
-- GitHub: https://github.com/anurag-tech90
+- GitHub: https://github.com/anurag90-tech
 ```
