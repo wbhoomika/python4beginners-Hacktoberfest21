@@ -222,7 +222,21 @@ Just copy and edit next 3 lines:
 - GitHub: https://github.com/atharv-bhadange
 
 ```
+
 ```markdown
 #### Name: Vishal
 - GitHub:https://github.com/vishalrock1912
+```
+
+```markdown
+
+#### Name: Aishwarya Murugappan
+- GitHub: https://github.com/gracyashhh
+```
+
+```markdown
+#### Name: Ali Imran
+- GitHub: https://github.com/ALI11-2000
+
+
 ```
