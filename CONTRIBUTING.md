@@ -224,6 +224,12 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
+
 #### Name: Aishwarya Murugappan
 - GitHub: https://github.com/gracyashhh
+```
+
+#### Name: Ali Imran
+- GitHub: https://github.com/ALI11-2000
+
 ```
