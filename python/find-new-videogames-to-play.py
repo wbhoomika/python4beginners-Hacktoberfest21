@@ -1,6 +1,7 @@
 print("Are you trying to find new videogames to play?")
 print("let me help you!")
 print("do you like shooting games, yes or no")
+print("try improving accuracy for shooting")
 shooting=input()
 if shooting = "yes"
   print("do you like battle royale games?")
@@ -16,3 +17,10 @@ if shooting = "yes"
       print("try out Fifa or NBA2k!")
       else if sports="no"
         print("I know, try out rocket league!")
+        strategy=input()
+        if strategy= "yes"
+        print("do you love sandbox games?")
+        sb=input()
+        if sb="yes"
+        print("you should try out minecraft!")
+        
