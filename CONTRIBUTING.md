@@ -253,3 +253,8 @@ Just copy and edit next 3 lines:
 #### Name: Disha Bhardwaj
 - GitHub: https://github.com/bhardwajdisha
 ```
+
+```markdown
+#### Name: Amit Sides
+- GitHub: https://github.com/amit-sides
+```
