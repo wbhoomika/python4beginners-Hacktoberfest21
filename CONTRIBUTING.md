@@ -258,3 +258,9 @@ Just copy and edit next 3 lines:
 #### Name: Amit Sides
 - GitHub: https://github.com/amit-sides
 ```
+
+```markdown
+#### Name: Pratap Pawar
+- GitHub: https://github.com/pawarspeaks
+```
+
