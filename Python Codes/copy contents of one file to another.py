@@ -1,5 +1,5 @@
 file_name1 = input("Enter file 1 name: ")
-file_name2 = input("Enter file 2 name: “)
+file_name2 = input("Enter file 2 name: ")
 file3 = open(file_name2, "r")
 c = file3.readline()
 file1 = open(file_name1, "r")
