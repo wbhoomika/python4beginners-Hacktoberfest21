@@ -6,6 +6,10 @@
     </a>
 </p>
 
+## Update : 1st Nov 2021
+
+HacktoberFest 21 can end but our enthusiasm for open source contribution cannot. Intrested can still contribute to this repository and I will keep approving further PR's.
+
 # HacktoberFest21
 
 Hello Hackers! HacktoberFest has begun again for year 2021, and everyone's excited to get started!
@@ -15,7 +19,7 @@ Create a Pull request and add any feature update to the repository.
 
 * [Click here to register for hacktoberfest2021.](https://hacktoberfest.digitalocean.com/)
 
-## Our Contributors :handshake: :handshake:
+## A BIG Thanks To Our Contributors :handshake: :handshake:
 <a href="https://github.com/wbhoomika/python4beginners-Hacktoberfest21/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=wbhoomika/python4beginners-Hacktoberfest21" />
 </a>
@@ -55,12 +59,3 @@ git push origin branch-name
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval...
 * __Star this repository__ if you had fun contributing!
-
-## Update
-
-A new folder named `Advance Python` has been added. Kindly add your code in that folder if you think your contribution lies in that category. 
-
-<br />
-
-NOTE: Only valid PRs will be merged.
-I will accept every PR from : 8:30pm to 10:00pm IST daily.
