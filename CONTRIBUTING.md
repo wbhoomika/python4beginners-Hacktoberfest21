@@ -1,10 +1,4 @@
-## Update CONTRIBUTORS.md file using the below convention:
-
-Just copy and edit next 3 lines:
-```markdown
-#### Name: YOUR NAME
-- GitHub: GitHub link
-```
+#Shoutout to our passionate contributors
 
 ```markdown
 #### Name: Bhoomika Wavhal 
@@ -237,17 +231,12 @@ Just copy and edit next 3 lines:
 ```markdown
 #### Name: Ali Imran
 - GitHub: https://github.com/ALI11-2000
-
-
-
 ```
+
 ```markdown
 #### Name: Meghana Gottapu
 - GitHub: https://github.com/meghanagottapu
-
-
 ```
-
 
 ```markdown
 #### Name: Disha Bhardwaj
@@ -260,18 +249,16 @@ Just copy and edit next 3 lines:
 ```
 
 ```markdown
-
 #### Name: Sai Adhithya
 - GitHub: https://github.com/Gud-will
 ```
 
+```markdown
 #### Name: Pratap Pawar
 - GitHub: https://github.com/pawarspeaks
 ```
-```
+
+```markdoen
 #### Name: Prajna Gupta
 -Github: https://github.com/prajna-spec
 ```
-
-
-
