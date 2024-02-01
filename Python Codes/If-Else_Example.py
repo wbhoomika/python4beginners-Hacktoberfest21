@@ -1,10 +1,16 @@
-N = int(input())
-if N % 2 != 0:
-    print ('Weird')
-else:
-    if N >= 2 and N <= 5:
-        print ('Not Weird')
-    elif N >= 6 and N <= 20:
-        print ('Weird')
-    elif N > 20:
-        print ('Not Weird')
+# To check whether a user is eligible to vote or not
+
+user_name = input("Enter your name")
+user_age = int(input("Enter your age"))
+
+if user_age >= 18:
+    print(f"{user_name} is eligible for voting"})
+
+elif user_age < 18:
+    print(f"{user_name} is not eligible for voting as they should be atleast 18 years or older not {user_age}")
+
+
+
+
+
+
